@@ -30,7 +30,7 @@ $\frac{Root}{minor}$ + $\frac{7^{th}}{Major}$ + $\frac{6^{th}}{Major}$ + $\frac{
 
 ### Homework
 
-- Learn 2-3 shapes for dominant 7 chords.
+- Learn 2-3 shapes for dominant 7 chords and $\phi$ chords.
 - Practice Arpeggios.
 - Practice accompaniment on Am.
 - Practice 12 bar blues.
@@ -129,7 +129,7 @@ $\frac{Root}{minor}$ + $\frac{7^{th}}{Major}$ + $\frac{6^{th}}{Major}$ + $\frac{
 
 ```
 | 5-0 Am Am | 5-3 5-2 5-0 | 5-2 E7 E7 | 6-0 E7 E7 |
-| 5-2 E7 E7 | 4-0 5-3 5-2 | 5-0 5-3 4-2 | 5-0 E7 E7 |
+| 5-2 E7 E7 | 4-0 5-3 5-2 | 5-0 5-3 4-2 | 5-0 Am Am |
 | 4-0 Dm Dm | 3-2 3-0 4-3 | 4-2 Am Am | 4-2 4-0 5-3 |
 | 5-2 E7 E7 | 4-2 5-2 5-3 | 5-0 Am Am | 5-0 5-3 4-2 |
 | 4-3 Dm Dm | 4-0 Dm Dm | 5-2 E7 E7 | 6-0 E7 E7 |
