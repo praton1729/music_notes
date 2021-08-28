@@ -11,7 +11,7 @@
 
 ## Circle of notes
 
-- ![circle of notes](images/circle_of_notes.png)
+- ![circle of notes](images/week-1/circle_of_notes.png)
 
 # Making the major scale
 
