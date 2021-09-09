@@ -1,4 +1,7 @@
-all: week_1.pdf week_2.pdf week_3.pdf week_4.pdf
+MD_SOURCES=$(wildcard *.md)
+PDF_TARGETS=$(patsubst %.md,%.pdf, $(MD_SOURCES))
+
+all: ${PDF_TARGETS}
 
 %.pdf: %.md
 	pandoc $^ -o $@
