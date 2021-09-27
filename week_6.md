@@ -152,3 +152,32 @@
 | C9sus4 | R + $P_4$ + $F_7$ + $P_9$ | C F Bb D |
 | Cadd9 | R + $P_3$ + $P_5$ + $P_9$ | C E G D |
 | Caug9 | R + $P_3$ + $F_6$ + $F_7$+ $P_9$ | C E Ab Bb D |
+
+## Hotel California Solo
+
+### Chords used
+
+- `Bm`: `B D F#`
+- `F#7`: `F# Bb C# E`
+- `A`: `A C# E`
+- `E`: `E G# B`
+- `G`: `G B D`
+- `D`: `D F# A`
+- `Em`: `E G B`
+
+### Chord progression
+
+```
+| Bm Bm Bm Bm | F#7 F#7 F#7 F#7 F#7 | A A A A | E E E E |
+| G G G G | D D D D | Em Em Em Em Em | F#7 F#7 F#7 F#7 |
+```
+
+### Notes played over chords
+
+- 
+
+### Solo
+
+```
+| 4-2 |
+```
