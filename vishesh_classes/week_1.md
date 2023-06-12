@@ -2,7 +2,7 @@
 colorlinks: true
 ---
 
-# Week - 14 Started classes with Vishesh Kapil
+# Week - 1 Started classes with Vishesh Kapil
 
 ## Notes from Vishesh
 
@@ -12,7 +12,7 @@ colorlinks: true
 
 ## What to practice
 
-- Practice major scale on a single string with backing track.
+- Practice major scale on a single string with drone backing track.
 	- Try it with all root notes.
 	- Try to improvise by skipping notes.
 	- Send an improvisation recording to vishesh before next class
