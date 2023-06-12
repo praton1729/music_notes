@@ -1,4 +1,4 @@
-MD_SOURCES=$(shell ls week_*.md | sort --sort=version)
+MD_SOURCES=$(shell ls *.md | sort --sort=version)
 PDF_TARGETS=$(addprefix pdfs/,$(patsubst %.md,%.pdf, $(MD_SOURCES)))
 OUT=pdfs
 
