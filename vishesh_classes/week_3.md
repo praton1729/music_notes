@@ -2,7 +2,7 @@
 colorlinks: true
 ---
 
-# Week - 16 Third class
+# Week - 3 Third class
 
 ## What to practice
 
@@ -22,17 +22,29 @@ colorlinks: true
 
 ### Ascending
 - Unison: C C: Happy birthday, jingle bells, baba black sheep, twinkle twinkle
-- minor 2nd: C C#: Jaadu theme, pink panther theme, shaktiman, jaws theme, tu aata hai seene main(ms dhoni)
-- Major 2nd: C D: Ek pyaar ka nagma, vande matram, national anthem, affection riff by cigarettes after sex
-- minor 3rd: C Eb: smoke on the water, iron man, khwabon ke parindey, numb, whole lotta love, pirates of the carribean, shape of you, pukarta chala hoon main intro, kisi ki muskurahton pe
-- Major 3rd: C E: tum dil ki, ye jo desh hai mera intro, aaja aaja, common dancy blues riff, behti hawa sa tha voh
-- Perfect 4th: C F: hedwig's theme, godfather, hai apna dil toh, jaidev jaidev ganesh aarti, age of empires theme
-- #4,b5, Tritone, Devil's interval: C F#: Mellotron scratch, purple haze, simpsons theme, chingari jo bhadke
+- minor 2nd: C C#: Jaadu theme, pink panther theme, shaktiman, jaws theme, tu
+  aata hai seene main(ms dhoni)
+- Major 2nd: C D: Ek pyaar ka nagma, vande matram, national anthem, affection
+  riff by cigarettes after sex
+- minor 3rd: C Eb: smoke on the water, iron man, khwabon ke parindey, numb,
+  whole lotta love, pirates of the carribean, shape of you, pukarta chala hoon
+  main intro, kisi ki muskurahton pe
+- Major 3rd: C E: tum dil ki, ye jo desh hai mera intro, aaja aaja, common dancy
+  blues riff, behti hawa sa tha voh
+- Perfect 4th: C F: hedwig's theme, godfather, hai apna dil toh, jaidev jaidev
+  ganesh aarti, age of empires theme
+- #4,b5, Tritone, Devil's interval: C F#: Mellotron scratch, purple haze,
+  simpsons theme, chingari jo bhadke
 - Perfect 5th: C G: star wars, sherlock theme, jaadu teri, dhoom theme
-- minor 6th: C G#: ek din teri raahon main, mere rang me, you are beautiful, slow dancing in burning room, hum dil de chuke sanam piano intro, in my life beatles, vangelis conquest of paradise, we are young(so let's set the world on fire)
-- Major 6th: C A: everything I do, lag ja gale, brazil la la la, jingle bell middle section
+- minor 6th: C G#: ek din teri raahon main, mere rang me, you are beautiful,
+  slow dancing in burning room, hum dil de chuke sanam piano intro, in my life
+  beatles, vangelis conquest of paradise, we are young(so let's set the world on
+  fire)
+- Major 6th: C A: everything I do, lag ja gale, brazil la la la, jingle bell
+  middle section
 - minor 7th: C Bb: can't stop
-- Major 7th: C B: take on me, don't know why nora jones, winner takes it all chorus ABBA
+- Major 7th: C B: take on me, don't know why nora jones, winner takes it all
+  chorus ABBA
 - Perfect 8th: C C: Sweet child of mine
 
 ### Descending
