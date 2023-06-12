@@ -2,7 +2,7 @@
 colorlinks: true
 ---
 
-# Week - 15 Second class
+# Week - 2 Second class
 
 ## What to practice
 
@@ -18,7 +18,3 @@ colorlinks: true
 
 - Try to visualize sounds in my head before playing it on the guitar.
 - Record audio/video for everything to move on.
-
-## Revision
-
-- Practice major scale on a single string with backing track.
